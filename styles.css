@@ -2,3 +2,22 @@
     background-color: black;
     color: blanchedalmond;
 }
+
+h1, h2 {
+    text-align: center;
+    background-color: transparent;
+}
+.second {
+    background-color: aqua;
+}
+.container {
+    display: flex;
+}
+.img01 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.quote {
+    background-color: gray;
+}
